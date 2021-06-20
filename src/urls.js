@@ -20,7 +20,11 @@ export default [
     url: 'https://raw.githubusercontent.com/traPtitech/knoQ/master/docs/swagger.yaml'
   },
   {
-    name: 'Jomon',
+    name: 'Jomon v2 API',
+    url: 'https://raw.githubusercontent.com/traPtitech/Jomon/v2/docs/swagger.yaml'
+  },
+  {
+    name: 'Jomon v1 API',
     url: 'https://raw.githubusercontent.com/traPtitech/Jomon/master/docs/swagger.yaml'
   },
   {
