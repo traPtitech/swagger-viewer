@@ -44,6 +44,6 @@ export default [
   },
   {
     name: 'Emoine',
-    url: github('Emoine', 'docs/openapi.yaml')
+    url: github('Emoine', 'docs/openapi.yml')
   }
 ]
