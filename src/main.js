@@ -5,7 +5,7 @@ import urls from './urls'
 
 import './index.css'
 import 'swagger-ui/dist/swagger-ui.css'
-import 'swagger-ui-plugin-enum-names/dist/index.min.css'
+import 'swagger-ui-plugin-enum-names/dist/index.css'
 
 document.addEventListener('DOMContentLoaded', () => {
   SwaggerUI({
