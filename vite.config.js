@@ -1,5 +1,6 @@
+import { defineConfig } from 'vite'
 
-export default {
+export default defineConfig({
   build: {
     rollupOptions: {
       output: {
@@ -24,4 +25,4 @@ export default {
       }
     }
   }
-}
+})
