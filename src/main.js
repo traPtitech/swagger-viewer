@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
       SwaggerUI.plugins.DownloadUrl,
       EnumNamesPlugin
     ],
-    layout: 'StandaloneLayout'
+    layout: 'StandaloneLayout',
+    queryConfigEnabled: true
   })
 })
