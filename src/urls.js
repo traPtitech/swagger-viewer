@@ -35,8 +35,12 @@ export default [
     url: github('traPortfolio', 'docs/swagger/traPortfolio.v1.yaml', 'main')
   },
   {
-    name: 'traP Collection',
-    url: github('trap-collection-server', 'docs/swagger/openapi.yml', 'develop')
+    name: 'traP Collection v1 API',
+    url: github('trap-collection-server', 'docs/openapi/v1.yaml', 'main')
+  },
+  {
+    name: 'traP Collection v2 API',
+    url: github('trap-collection-server', 'docs/openapi/v2.yaml', 'main')
   },
   {
     name: 'NeoShowcase',
