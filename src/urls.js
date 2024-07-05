@@ -16,11 +16,11 @@ export default [
   },
   {
     name: 'anke-to (v1)',
-    url: github('anke-to', 'docs/swagger/swagger.yaml', 'main')
+    url: github('anke-to', 'docs/swagger/swagger.yaml', 'v1')
   },
   {
     name: 'anke-to (v3)',
-    url: github('anke-to', 'docs/swagger/swagger.yaml', 'v1')
+    url: github('anke-to', 'docs/swagger/swagger.yaml', 'main')
   },
   {
     name: 'knoQ',
