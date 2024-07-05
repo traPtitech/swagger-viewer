@@ -15,8 +15,12 @@ export default [
     url: github('booQ', 'docs/swagger.yml')
   },
   {
-    name: 'anke-to',
+    name: 'anke-to (v1)',
     url: github('anke-to', 'docs/swagger/swagger.yaml', 'main')
+  },
+  {
+    name: 'anke-to (v3)',
+    url: github('anke-to', 'docs/swagger/swagger.yaml', 'v1')
   },
   {
     name: 'knoQ',
