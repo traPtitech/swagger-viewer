@@ -61,5 +61,9 @@ export default [
   {
     name: 'Emoine_R',
     url: github('Emoine_R', 'docs/openapi.yml')
+  },
+  {
+    name: 'rucQ',
+    url: github('rucQ', 'openapi.yaml', 'main')
   }
 ]
