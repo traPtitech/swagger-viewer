@@ -7,6 +7,10 @@ export default [
     url: github('traQ', 'docs/v3-api.yaml')
   },
   {
+    name: 'traQ v3 API (threads)',
+    url: github('traQ', 'docs/v3-api.yaml', 'feat/thread')
+  },
+  {
     name: 'traQ v2 API',
     url: github('traQ', 'docs/swagger.yaml')
   },
